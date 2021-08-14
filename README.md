@@ -4,9 +4,7 @@
 ## Live demo 
 - [Window11](https://dishi24.github.io/Windows-11/)
 
-## How to run in your machine? 
-- Download [ZIP](https://github.com/dishi24/Windows-11/archive/refs/heads/main.zip)
--                          OR
+## How to run in your machine?  
 - Clone my repo:
 - `$ git clone https://github.com/dishi24/Windows-11` 
 
